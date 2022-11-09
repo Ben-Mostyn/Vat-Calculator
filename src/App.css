@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.field {
+  width: 300px;
+  padding-bottom: 20px;
+}
+.pale-green-border {
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+.header {
+  padding: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
